@@ -1,0 +1,556 @@
+[18-Jan-2022 08:33:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[18-Jan-2022 21:09:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[19-Jan-2022 00:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[19-Jan-2022 05:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[19-Jan-2022 06:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[20-Jan-2022 07:21:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[20-Jan-2022 07:47:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationBillPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationBillPayment.php on line 9
+[22-Jan-2022 19:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[23-Jan-2022 01:27:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[24-Jan-2022 08:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[24-Jan-2022 21:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[26-Jan-2022 01:33:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[26-Jan-2022 12:35:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[26-Jan-2022 14:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[26-Jan-2022 14:56:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[27-Jan-2022 14:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[28-Jan-2022 00:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[28-Jan-2022 10:37:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[28-Jan-2022 16:20:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[28-Jan-2022 18:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/employee.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/employee.php on line 9
+[29-Jan-2022 05:47:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[05-Feb-2022 08:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[05-Feb-2022 16:09:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[06-Feb-2022 08:18:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[06-Feb-2022 17:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[07-Feb-2022 16:03:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodation_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodation_base.php on line 9
+[07-Feb-2022 16:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/allocated_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/allocated_item.php on line 9
+[07-Feb-2022 16:20:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[07-Feb-2022 16:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/employeeResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/employeeResource.php on line 9
+[07-Feb-2022 17:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[07-Feb-2022 23:16:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[07-Feb-2022 23:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[07-Feb-2022 23:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/invoice_base.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/invoice_base.php on line 10
+[08-Feb-2022 03:53:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/employee.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/employee.php on line 9
+[08-Feb-2022 03:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/invoice_expense.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/invoice_expense.php on line 9
+[08-Feb-2022 04:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/profession_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/profession_base.php on line 9
+[08-Feb-2022 04:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/projectResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/projectResource.php on line 9
+[08-Feb-2022 04:43:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[08-Feb-2022 12:56:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[08-Feb-2022 12:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[08-Feb-2022 13:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[08-Feb-2022 13:09:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchasing.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchasing.php on line 9
+[08-Feb-2022 13:14:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/resource_allocation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/resource_allocation.php on line 9
+[08-Feb-2022 13:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[09-Feb-2022 03:58:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[09-Feb-2022 03:58:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[09-Feb-2022 03:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendor_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendor_base.php on line 9
+[10-Feb-2022 05:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[12-Feb-2022 07:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[12-Feb-2022 08:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[12-Feb-2022 14:22:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[13-Feb-2022 04:55:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[13-Feb-2022 06:33:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[13-Feb-2022 18:09:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[15-Feb-2022 12:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[16-Feb-2022 00:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[16-Feb-2022 12:06:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[18-Feb-2022 22:15:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[19-Feb-2022 04:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[21-Feb-2022 08:50:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[21-Feb-2022 09:30:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[23-Feb-2022 03:19:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[23-Feb-2022 05:46:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[23-Feb-2022 07:23:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[23-Feb-2022 09:08:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[23-Feb-2022 18:18:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[23-Feb-2022 19:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[26-Feb-2022 21:56:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[28-Feb-2022 02:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[28-Feb-2022 04:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[28-Feb-2022 12:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[02-Mar-2022 04:58:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[03-Mar-2022 07:20:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[04-Mar-2022 17:55:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[05-Mar-2022 07:35:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[05-Mar-2022 14:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[05-Mar-2022 14:56:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[06-Mar-2022 16:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[08-Mar-2022 10:19:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[08-Mar-2022 12:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[10-Mar-2022 02:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[10-Mar-2022 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[10-Mar-2022 12:31:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[10-Mar-2022 14:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[10-Mar-2022 19:25:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[12-Mar-2022 23:41:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[13-Mar-2022 15:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[13-Mar-2022 16:35:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[13-Mar-2022 20:34:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[14-Mar-2022 03:01:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[14-Mar-2022 17:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[15-Mar-2022 00:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[15-Mar-2022 04:19:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[15-Mar-2022 19:11:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[19-Mar-2022 23:57:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[20-Mar-2022 07:18:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[20-Mar-2022 08:17:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[21-Mar-2022 00:52:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[21-Mar-2022 12:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[21-Mar-2022 23:27:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[22-Mar-2022 00:47:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[22-Mar-2022 05:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[22-Mar-2022 11:53:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[23-Mar-2022 08:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[23-Mar-2022 19:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/vendorService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/vendorService.php on line 9
+[24-Mar-2022 03:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[24-Mar-2022 04:08:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[26-Mar-2022 09:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[29-Mar-2022 16:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[29-Mar-2022 21:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationPayment.php on line 9
+[30-Mar-2022 02:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/Company.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/Company.php on line 10
+[30-Mar-2022 09:07:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[01-Apr-2022 01:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevel.php on line 9
+[02-Apr-2022 00:38:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[04-Apr-2022 01:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/accommodationResource.php on line 9
+[04-Apr-2022 09:18:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[04-Apr-2022 15:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/salmanmarif/public_html/app/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/User.php on line 13
+[06-Apr-2022 15:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/purchased_item.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/purchased_item.php on line 9
+[07-Apr-2022 07:56:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/audit.php on line 9
+[09-Apr-2022 09:33:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/userLevelPermission.php on line 9
+[09-Apr-2022 13:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[23-Apr-2022 17:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[26-Apr-2022 01:05:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[28-Apr-2022 16:31:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[28-Apr-2022 16:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[29-Apr-2022 11:27:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[29-Apr-2022 11:33:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[29-Apr-2022 23:15:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[05-May-2022 01:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[06-May-2022 03:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/expenseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/expenseItem.php on line 9
+[06-May-2022 03:15:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/clientService.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/clientService.php on line 9
+[06-May-2022 12:55:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/client_base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/client_base.php on line 9
+[13-May-2022 07:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[19-May-2022 00:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[29-May-2022 06:33:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[06-Jun-2022 21:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[07-Jun-2022 06:09:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[13-Jun-2022 13:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9
+[18-Jun-2022 13:59:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/salmanmarif/public_html/app/app/Models/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Models/settings.php on line 9

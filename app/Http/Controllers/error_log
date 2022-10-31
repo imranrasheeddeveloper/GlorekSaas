@@ -1,0 +1,8 @@
+[20-Jan-2022 07:42:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/salmanmarif/public_html/app/app/Http/Controllers/ApplicationController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Controllers/ApplicationController.php on line 8
+[20-Jan-2022 07:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/salmanmarif/public_html/app/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Controllers/Controller.php on line 10

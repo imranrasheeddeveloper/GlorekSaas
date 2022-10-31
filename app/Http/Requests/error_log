@@ -1,0 +1,4 @@
+[20-Jan-2022 07:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/salmanmarif/public_html/app/app/Http/Requests/addEmployeeValidate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Requests/addEmployeeValidate.php on line 10

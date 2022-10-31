@@ -1,0 +1,8 @@
+[13-Jan-2022 07:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/salmanmarif/public_html/app/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/tests/TestCase.php on line 7
+[14-Jan-2022 11:58:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/salmanmarif/public_html/app/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/tests/TestCase.php on line 7

@@ -1,0 +1,28 @@
+[13-Jan-2022 00:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[19-Jan-2022 04:01:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[31-Jan-2022 07:39:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[06-Feb-2022 09:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[09-Mar-2022 10:08:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[15-Mar-2022 03:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9
+[08-Apr-2022 00:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/salmanmarif/public_html/app/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/database/factories/UserFactory.php on line 9

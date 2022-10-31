@@ -1,0 +1,168 @@
+[09-Feb-2022 04:01:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/ExpenceItemExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/ExpenceItemExportResource.php on line 7
+[09-Feb-2022 04:01:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/accommodationExportResource.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/accommodationExportResource.php on line 11
+[09-Feb-2022 04:02:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/billPaymentExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/billPaymentExportResource.php on line 7
+[09-Feb-2022 04:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/employeeExportResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/employeeExportResource.php on line 8
+[09-Feb-2022 04:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceServiceResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceServiceResource.php on line 7
+[09-Feb-2022 04:04:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseExportResource.php on line 7
+[10-Feb-2022 18:43:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterExportresource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterExportresource.php on line 9
+[19-Feb-2022 06:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/ExpenceItemResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/ExpenceItemResource.php on line 7
+[19-Feb-2022 06:51:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/accommodationResource.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/accommodationResource.php on line 11
+[19-Feb-2022 06:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/billPaymentResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/billPaymentResource.php on line 7
+[19-Feb-2022 07:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/clientExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/clientExportResource.php on line 7
+[19-Feb-2022 07:14:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/clientServiceResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/clientServiceResource.php on line 8
+[19-Feb-2022 07:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/employeeResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/employeeResource.php on line 8
+[19-Feb-2022 08:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/companyResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/companyResource.php on line 7
+[19-Feb-2022 09:13:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceResource.php on line 9
+[19-Feb-2022 10:33:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/clientResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/clientResource.php on line 8
+[19-Feb-2022 10:39:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/vendorResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/vendorResource.php on line 8
+[19-Feb-2022 10:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseResource.php on line 9
+[19-Feb-2022 10:42:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/settingsResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/settingsResource.php on line 7
+[19-Feb-2022 10:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/userDataResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/userDataResource.php on line 7
+[19-Feb-2022 10:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/invoiceExportResource.php on line 7
+[19-Feb-2022 10:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseItemResource.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/purchaseItemResource.php on line 12
+[19-Feb-2022 10:46:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/rentPaymentExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/rentPaymentExportResource.php on line 7
+[19-Feb-2022 10:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/rentPaymentResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/rentPaymentResource.php on line 7
+[19-Feb-2022 10:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterItemResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterItemResource.php on line 7
+[19-Feb-2022 10:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterresource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/resourceCenterresource.php on line 9
+[19-Feb-2022 10:47:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/resourceItemresource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/resourceItemresource.php on line 7
+[19-Feb-2022 10:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/selectClientresource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/selectClientresource.php on line 7
+[19-Feb-2022 10:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/selectGeneralresource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/selectGeneralresource.php on line 7
+[19-Feb-2022 10:47:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/selectProfessionresource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/selectProfessionresource.php on line 7
+[19-Feb-2022 13:50:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/auditResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/auditResource.php on line 7
+[19-Feb-2022 13:50:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/userResource.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/userResource.php on line 8
+[19-Feb-2022 13:50:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/selectVendorresource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/selectVendorresource.php on line 7
+[19-Feb-2022 13:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/singleEmployeeResource.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/singleEmployeeResource.php on line 11
+[19-Feb-2022 13:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/updateInvoiceResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/updateInvoiceResource.php on line 9
+[19-Feb-2022 13:50:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/updateInvoiceServiceResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/updateInvoiceServiceResource.php on line 7
+[19-Feb-2022 13:50:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/updateUserRoleResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/updateUserRoleResource.php on line 7
+[19-Feb-2022 13:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/userLevelResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/userLevelResource.php on line 7
+[19-Feb-2022 13:50:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/userRoleResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/userRoleResource.php on line 7
+[19-Feb-2022 13:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/userSignupResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/userSignupResource.php on line 7
+[19-Feb-2022 13:51:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/vendorExportResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/vendorExportResource.php on line 7
+[19-Feb-2022 13:51:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/salmanmarif/public_html/app/app/Http/Resources/vendorServiceResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/salmanmarif/public_html/app/app/Http/Resources/vendorServiceResource.php on line 7
